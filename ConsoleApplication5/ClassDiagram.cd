@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="User" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAgBABAAAAEAAAAAAAAAAAAAggAAFAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="1.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAEAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Account" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAgAAggCAAAAACCAAIAEEEBgBgAAAGAgAAAEA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SavingAccount">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAgAAAAIACAAAAAAEABBAAAAACAgEAAAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckAccount" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAAAgAAAAIAAAAAAAAEABAQACAQAIgAAAAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loan">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAQgAEBABABAAQACAAAAAAAEEEEgBhAAAEAABAAAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentFeeLoan">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAACAAQAKAEAAAAAAEAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAACAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserBuilder">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEQAAABAAAAAAAAAgAAAIA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccountBuilder">
+    <Position X="15.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAgACQABAAADAAIAEAEAABAAAAAAAAAAAA=</HashCode>
+      <FileName>BankSystem.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
